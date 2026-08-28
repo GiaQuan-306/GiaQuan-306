@@ -20,9 +20,6 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=GiaQuan-306&theme=dark&hide_border=true&cache_seconds=86400" alt="GiaQuan-306's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GiaQuan-306&theme=dark&radius=10" alt="GiaQuan-306's Activity Graph" />
-</p>
 
 ## Languages & Tools
 
